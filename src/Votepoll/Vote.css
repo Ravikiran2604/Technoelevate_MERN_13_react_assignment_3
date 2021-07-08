@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+SC&display=swap');
+
+.bdy p,h5,button{
+    display: inline-block;
+    padding: 20px 40px 20px 40px;
+}
+
+button{
+    border: none;
+    background: none;
+    font-size: 20px;
+    font-family: 'Encode Sans SC', sans-serif;
+
+}
+.lan1,.lan2,.lan3,.lan4
+{
+    background:linear-gradient(#0072FF,#00C6FF);
+    margin-top: 15px;
+    justify-content: center;
+    font-size: 30px;
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+.bdy .lan2 button
+{
+ position: relative;
+ left: 50px;
+}
+
+.bdy .lan4 button
+{
+    position: relative;
+    left: 40px;
+}
